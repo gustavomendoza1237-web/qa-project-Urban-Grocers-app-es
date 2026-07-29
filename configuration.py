@@ -1,4 +1,4 @@
-URL_SERVICE ="https://cnt-76a6d5ff-1ddc-4623-8095-19ad4c412587.containerhub.tripleten-services.com"
+URL_SERVICE ="https://cnt-9616b3de-c815-4542-980f-8eab2d336989.containerhub.tripleten-services.com"
 CREATE_USER_PATH ="/api/v1/users"
 KITS_PATH ="/api/v1/kits"
 KIT_BY_ID_PATH = "/api/v1/kits/"

@@ -1,6 +1,6 @@
 user_body = {
     "firstName": "steven",
-    "phone": "3043466567",
+    "phone": "+34600123456",
     "address": "Mendoza, España"
 }
 
@@ -18,3 +18,11 @@ kit_name_special_characters = '"№%@",'
 kit_name_with_spaces = " A Aaa "
 
 kit_name_numbers_as_text = "123"
+
+kit_name_1_character = "a"
+
+kit_name_empty = ""
+
+kit_name_missing = {}
+
+kit_name_as_number = 123
